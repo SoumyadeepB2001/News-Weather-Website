@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(243, 211, 211);
+}
+.navbar {
+    background-color: rgba(185, 10, 10, 0.856) !important;
+}
+.navbar a {
+    color: white !important;
+}
+.navbar a:hover {
+    background-color: rgb(243, 211, 211);
+    color: black !important;
+}
