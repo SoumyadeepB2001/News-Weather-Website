@@ -5,7 +5,7 @@ A simple news website that fetches current trending news from various sources us
 
 This website also uses OpenWeatherMap API to display the currrent and future weather conditions of a particular place.
 
-I have used HTML, CSS, Bootstrap and JavaScript for this project.
+I have used HTML, CSS, Bootstrap, JavaScript and PHP for this project.
 
 
 ## Documentation
